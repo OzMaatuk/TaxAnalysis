@@ -1,0 +1,1 @@
+The user wants me to pin towns and cities in Israel on a map. You need to find the towns and cities on Google Maps. Consider pinning ONLY towns and cities, not streets or any other matching places. A list of towns and cities will be provided in an independent message in array format.
